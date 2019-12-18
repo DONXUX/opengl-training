@@ -1,0 +1,34 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(15,20): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(25,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : 'fopen' 선언을 참조하십시오.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(72,12): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(76,12): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(80,12): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(84,12): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(88,12): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(92,12): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(105,15): warning C4305: '*=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(110,15): warning C4305: '/=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(165,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(166,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(174,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(176,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(182,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(183,44): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(184,45): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(199,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(200,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(201,54): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(202,39): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(215,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(216,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(220,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(221,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(225,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(226,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(230,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(231,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(234,32): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\외로운teapot\main.cpp(247,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  외로운teapot.vcxproj -> D:\OpenGL\opengl_training\Debug\외로운teapot.exe
