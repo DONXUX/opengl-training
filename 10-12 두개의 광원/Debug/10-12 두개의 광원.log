@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(6,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(8,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(9,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(13,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(16,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(17,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 두개의 광원\main.cpp(53,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  10-12 두개의 광원.vcxproj -> D:\OpenGL\opengl_training\Debug\10-12 두개의 광원.exe

@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\8장 DepthTest\main.cpp(19,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 DepthTest\main.cpp(23,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  8장 DepthTest.vcxproj -> D:\OpenGL\opengl_training\Debug\8장 DepthTest.exe

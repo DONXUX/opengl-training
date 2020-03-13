@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\7-1 뷰 포트 분할에 의한 투상\main.cpp(16,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\7-1 뷰 포트 분할에 의한 투상\main.cpp(26,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  7-1 뷰 포트 분할에 의한 투상.vcxproj -> D:\OpenGL\opengl_training\Debug\7-1 뷰 포트 분할에 의한 투상.exe

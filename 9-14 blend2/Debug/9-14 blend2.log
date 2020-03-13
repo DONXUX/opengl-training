@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\9-14 blend2\main.cpp(4,20): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 blend2\main.cpp(15,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 blend2\main.cpp(16,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 blend2\main.cpp(37,24): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 blend2\main.cpp(38,24): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  9-14 blend2.vcxproj -> D:\OpenGL\opengl_training\Debug\9-14 blend2.exe

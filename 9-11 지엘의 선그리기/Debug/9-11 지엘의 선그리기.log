@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\9-11 지엘의 선그리기\main.cpp(17,20): warning C4305: '=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-11 지엘의 선그리기\main.cpp(17,50): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  9-11 지엘의 선그리기.vcxproj -> D:\OpenGL\opengl_training\Debug\9-11 지엘의 선그리기.exe

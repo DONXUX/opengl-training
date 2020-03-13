@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\9-12 interpolation\main.cpp(5,20): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  9-12 interpolation.vcxproj -> D:\OpenGL\opengl_training\Debug\9-12 interpolation.exe

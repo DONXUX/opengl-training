@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(11,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(12,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(13,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(14,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(28,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(29,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(30,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(31,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\8장 영상합성\main.cpp(36,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  8장 영상합성.vcxproj -> D:\OpenGL\opengl_training\Debug\8장 영상합성.exe

@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\9장 Primitive\main.cpp(54,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9장 Primitive\main.cpp(55,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9장 Primitive\main.cpp(56,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9장 Primitive\main.cpp(57,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  9장 Primitive.vcxproj -> D:\OpenGL\opengl_training\Debug\9장 Primitive.exe

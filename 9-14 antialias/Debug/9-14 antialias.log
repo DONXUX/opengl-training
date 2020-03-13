@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\9-14 antialias\main.cpp(16,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 antialias\main.cpp(23,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 antialias\main.cpp(24,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 antialias\main.cpp(25,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\9-14 antialias\main.cpp(27,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  9-14 antialias.vcxproj -> D:\OpenGL\opengl_training\Debug\9-14 antialias.exe

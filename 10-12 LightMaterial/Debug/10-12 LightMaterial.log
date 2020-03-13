@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(69,22): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(69,33): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(71,37): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(71,48): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(75,22): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(75,33): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(77,37): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(77,48): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(81,22): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(81,33): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(83,37): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(83,48): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(128,53): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\10-12 LightMaterial\main.cpp(129,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+  10-12 LightMaterial.vcxproj -> D:\OpenGL\opengl_training\Debug\10-12 LightMaterial.exe
