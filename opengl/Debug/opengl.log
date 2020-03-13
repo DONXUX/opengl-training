@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\opengl\main.cpp(17,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\opengl\main.cpp(22,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\opengl\main.cpp(30,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  opengl.vcxproj -> D:\OpenGL\opengl_training\Debug\opengl.exe

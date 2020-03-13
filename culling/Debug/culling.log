@@ -1,0 +1,4 @@
+﻿  main2.cpp
+D:\OpenGL\opengl_training\culling\main2.cpp(17,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\culling\main2.cpp(28,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  culling.vcxproj -> D:\OpenGL\opengl_training\Debug\culling.exe

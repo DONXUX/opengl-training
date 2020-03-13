@@ -1,0 +1,7 @@
+﻿  AnimLight.cpp
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\AnimLight.cpp(6,54): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\AnimLight.cpp(7,54): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\AnimLight.cpp(9,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\AnimLight.cpp(10,57): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\AnimLight.cpp(34,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  AnimLight.vcxproj -> D:\OpenGL\opengl_training\Debug\AnimLight.exe

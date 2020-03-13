@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\test\main.cpp(1,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+D:\OpenGL\opengl_training\test\main.cpp(9,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(13,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(15,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(20,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(22,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(26,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\test\main.cpp(27,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  test.vcxproj -> D:\OpenGL\opengl_training\Debug\test.exe

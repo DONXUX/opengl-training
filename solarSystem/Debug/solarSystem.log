@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\solarSystem\main.cpp(10,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(14,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(16,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(21,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(23,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(27,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\solarSystem\main.cpp(28,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  solarSystem.vcxproj -> D:\OpenGL\opengl_training\Debug\solarSystem.exe

@@ -1,0 +1,6 @@
+﻿  LightFix.cpp
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\LightFix.cpp(23,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\LightFix.cpp(24,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\LightFix.cpp(56,22): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\leedonguk\Downloads\조명과음영(실습2) (1)\LightFix.cpp(57,22): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  LightFix.vcxproj -> D:\OpenGL\opengl_training\Debug\LightFix.exe

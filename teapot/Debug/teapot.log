@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\teapot\main.cpp(6,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\teapot\main.cpp(8,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\teapot\main.cpp(11,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\teapot\main.cpp(12,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\teapot\main.cpp(84,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  teapot.vcxproj -> D:\OpenGL\opengl_training\Debug\teapot.exe

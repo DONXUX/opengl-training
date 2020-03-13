@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\LightAttach\main.cpp(38,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\LightAttach\main.cpp(39,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\LightAttach\main.cpp(40,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\LightAttach\main.cpp(41,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\LightAttach\main.cpp(42,21): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\LightAttach\main.cpp(43,21): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+  LightAttach.vcxproj -> D:\OpenGL\opengl_training\Debug\LightAttach.exe
