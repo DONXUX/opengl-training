@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\6장 기하변환(태양계)\main.cpp(9,25): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 기하변환(태양계)\main.cpp(13,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 기하변환(태양계)\main.cpp(15,26): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 기하변환(태양계)\main.cpp(19,30): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 기하변환(태양계)\main.cpp(20,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  6장 기하변환(태양계).vcxproj -> D:\OpenGL\opengl_training\Debug\6장 기하변환(태양계).exe

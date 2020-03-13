@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\6장 왜곡방지\main.cpp(31,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 왜곡방지\main.cpp(32,24): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 왜곡방지\main.cpp(38,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 왜곡방지\main.cpp(39,23): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  6장 왜곡방지.vcxproj -> D:\OpenGL\opengl_training\Debug\8장 후면제거1.exe

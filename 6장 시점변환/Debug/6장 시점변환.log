@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\6장 시점변환\main.cpp(7,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 시점변환\main.cpp(9,47): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 시점변환\main.cpp(12,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 시점변환\main.cpp(13,49): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+D:\OpenGL\opengl_training\6장 시점변환\main.cpp(85,33): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  6장 시점변환.vcxproj -> D:\OpenGL\opengl_training\Debug\6장 시점변환.exe

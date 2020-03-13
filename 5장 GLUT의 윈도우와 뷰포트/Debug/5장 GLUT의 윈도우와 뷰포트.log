@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\OpenGL\opengl_training\5장 GLUT의 윈도우와 뷰포트\main.cpp(9,25): error C3688: 잘못된 리터럴 접두사 'ㅏ'입니다. 리터럴 연산자 또는 리터럴 연산자 템플릿 '연산자 ""ㅏ'을(를) 찾을 수 없습니다.
+D:\OpenGL\opengl_training\5장 GLUT의 윈도우와 뷰포트\main.cpp(9,30): error C2660: 'glutWireSphere': 함수는 2개의 인수를 사용하지 않습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include\glut.h(451,22): message : 'glutWireSphere' 선언을 참조하십시오.
